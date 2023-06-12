@@ -7,10 +7,10 @@ import ProjectItem from '../ProjectItem/ProjectItem';
 
 const Projects = () => {
     return (
-        <div id='projects' className='max-w-[1040px] m-auto md:pl-20 p-4 py-16'>
+        <div id='projects' className='max-w-[1040px] m-auto md:pl-20 p-4 py-4'>
             <h1 className='text-4xl font-bold text-center text-[#001b5e]'>Projects</h1>
-            <p className='text-center py-8'>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe facilis similique sequi hic animi debitis quae repellendus neque accusantium consectetur laudantium, et a voluptatem ipsam esse explicabo nemo beatae eius!
+            <p className='text-justify py-8'>
+                Car Doctor, Ema-John, Panda Commerce, and Shopping Cart showcase my skills and expertise in web development. These projects demonstrate my ability to create strong, user-friendly applications for various industries. I specialize in building feature-rich websites that provide exceptional experiences to users. These projects highlight my commitment to meeting the specific needs of clients in the ever-changing online world.
             </p>
             <div className='grid sm:grid-cols-2 gap-12'>
                 <ProjectItem img={cardoctor} title="CarDoctor" />

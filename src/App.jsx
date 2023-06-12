@@ -4,6 +4,7 @@ import Main from './components/Main/Main';
 import Work from './components/Work/Work';
 import Education from './components/Education/Education';
 import Projects from './components/Projects/Projects';
+import Contact from './components/Contact/Contact';
 
 function App () {
   const [count, setCount] = useState(0)
@@ -12,9 +13,10 @@ function App () {
     <div>
       <Nav />
       <Main />
+      <Education />
       <Work />
       <Projects />
-      <Education />
+      <Contact />
     </div>
   )
 }
