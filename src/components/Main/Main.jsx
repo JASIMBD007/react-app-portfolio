@@ -1,6 +1,6 @@
 import React from 'react';
 import { TypeAnimation } from 'react-type-animation';
-import { FaFacebookF, FaTwitter, FaLinkedinIn, FaInstagram, FaGithub } from 'react-icons/fa';
+import { FaFacebookF, FaYoutube, FaTwitter, FaLinkedinIn, FaInstagram, FaGithub } from 'react-icons/fa';
 
 const Main = () => {
     return (
@@ -28,11 +28,25 @@ const Main = () => {
                         />
                     </h2>
                     <div className='flex justify-between pt-6 max-w-[200px] w-full'>
-                        <FaTwitter className='cusor-pointer' size={20} />
-                        <FaFacebookF className='cusor-pointer' size={20} />
-                        <FaInstagram className='cusor-pointer' size={20} />
-                        <FaLinkedinIn className='cusor-pointer' size={20} />
-                        <FaGithub className='cusor-pointer' size={20} />
+                        <a href="https://twitter.com/JASIM_ICE">
+                            <FaTwitter className='cusor-pointer' size={20} />
+                        </a>
+                        <a href="https://www.facebook.com/jasim.ice.iu/">
+                            <FaFacebookF className='cusor-pointer' size={20} />
+                        </a>
+                        <a href="https://www.youtube.com/channel/UCkO7YMH7Ykm5Zccxy4lqUsg">
+                            <FaYoutube className='cusor-pointer' size={20} />
+                        </a>
+                        <a href="https://www.instagram.com/jasim_uddin_92/">
+                            <FaInstagram className='cusor-pointer' size={20} />
+                        </a>
+                        <a href="https://www.linkedin.com/in/jasim-uddin92/">
+                            <FaLinkedinIn className='cusor-pointer' size={20} />
+                        </a>
+
+                        <a href="https://github.com/JASIMBD007">
+                            <FaGithub className='cusor-pointer' size={20} />
+                        </a>
                     </div>
                 </div>
             </div>
