@@ -9,7 +9,7 @@ const data
             company: "Ballsportdirekt GmbH & Co KG.",
             duration: "1 Year",
             details:
-                "Collaborate with designers and back-end developers to implement user interfaces,Determining the structure and design of web pages, building reusable codes, optimizing page loading times, and using a variety of markup languages to create the web pages .Test and debug code to ensure cross-browser compatibility and optimal performance."
+                "Collaborating with the development team to understand project requirements, designing and implementing user interfaces using React components, and ensuring the seamless integration of frontend functionalities with backend systems also involved in optimizing application performance, conducting code reviews, and troubleshooting any issues that arise."
         },
         {
             year: 2019,
@@ -17,7 +17,7 @@ const data
             company: "ICE Innovation Lab",
             duration: "2 Years",
             details:
-                "Collaborate with designers and back-end developers to implement user interfaces,Determining the structure and design of web pages, building reusable codes, optimizing page loading times, and using a variety of markup languages to create the web pages .Test and debug code to ensure cross-browser compatibility and optimal performance.Making of User Interface for IoT."
+                "Collaborated with designers and back-end developers to implement user interfaces,Determining the structure and design of web pages, building reusable codes, optimizing page loading times, and using a variety of markup languages to create the web pages .Test and debug code to ensure cross-browser compatibility and optimal performance.Making of User Interface for IoT."
         },
         {
             year: 2016,
