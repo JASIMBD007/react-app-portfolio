@@ -17,7 +17,7 @@ const Main = () => {
                                 2000, // wait 1s before replacing "Mice" with "Hamsters"
                                 'Coder',
                                 2000,
-                                'Tech Enthisiastic',
+                                'Tech Enthusiastic',
                                 2000,
                             ]}
                             wrapper="div"
@@ -28,23 +28,32 @@ const Main = () => {
                         />
                     </h2>
                     <div className='flex justify-between pt-6 max-w-[200px] w-full'>
-                        <a href="https://twitter.com/JASIM_ICE">
+                        <a
+                            href="https://twitter.com/JASIM_ICE" target="_blank"
+                            rel="noopener noreferrer"
+                        >
                             <FaTwitter className='cusor-pointer' size={20} />
                         </a>
-                        <a href="https://www.facebook.com/jasim.ice.iu/">
+                        <a href="https://www.facebook.com/jasim.ice.iu/"
+                            target="_blank"
+                            rel="noopener noreferrer">
                             <FaFacebookF className='cusor-pointer' size={20} />
                         </a>
-                        <a href="https://www.youtube.com/channel/UCkO7YMH7Ykm5Zccxy4lqUsg">
+                        <a href="https://www.youtube.com/channel/UCkO7YMH7Ykm5Zccxy4lqUsg" target="_blank"
+                            rel="noopener noreferrer">
                             <FaYoutube className='cusor-pointer' size={20} />
                         </a>
-                        <a href="https://www.instagram.com/jasim_uddin_92/">
+                        <a href="https://www.instagram.com/jasim_uddin_92/" target="_blank"
+                            rel="noopener noreferrer">
                             <FaInstagram className='cusor-pointer' size={20} />
                         </a>
-                        <a href="https://www.linkedin.com/in/jasim-uddin92/">
+                        <a href="https://www.linkedin.com/in/jasim-uddin92/" target="_blank"
+                            rel="noopener noreferrer">
                             <FaLinkedinIn className='cusor-pointer' size={20} />
                         </a>
 
-                        <a href="https://github.com/JASIMBD007">
+                        <a href="https://github.com/JASIMBD007" target="_blank"
+                            rel="noopener noreferrer">
                             <FaGithub className='cusor-pointer' size={20} />
                         </a>
                     </div>

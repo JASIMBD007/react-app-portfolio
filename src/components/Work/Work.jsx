@@ -25,7 +25,7 @@ const data
             company: "ICE Innovation Lab",
             duration: '6 Months',
             details:
-                'Develop and maintain responsive web pages using HTML, CSS, and JavaScript.Broaden web development, team building, and leadership skills.Fixing bugs and errors, designing website layouts, designing email marketing campaigns, and collaborating on different projects.'
+                'Developing and maintaining responsive web pages using HTML, CSS, and JavaScript,Bootstrap.Broaden web development, team building, and leadership skills.Fixing bugs and errors, designing website layouts, designing email marketing campaigns, and collaborating on different projects.'
         }
     ]
 

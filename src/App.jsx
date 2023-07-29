@@ -9,7 +9,7 @@ import Resume from './components/Resume/Resume';
 import Footer from './components/Footer/Footer';
 
 function App () {
-  const [count, setCount] = useState(0)
+
 
   return (
     <div>
