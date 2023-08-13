@@ -4,6 +4,7 @@ import emajohn from '../../assets/emajohn.png';
 import cardoctor from '../../assets/cardoctor.png';
 import shoppingcart from '../../assets/shoppingcart.png';
 import summai from '../../assets/summai.png';
+import doctorsportal from '../../assets/doctorsportal.png';
 import ProjectItem from '../ProjectItem/ProjectItem';
 
 const Projects = () => {
@@ -15,6 +16,7 @@ const Projects = () => {
             </p>
             <div className='grid sm:grid-cols-2 gap-12'>
                 <ProjectItem img={cardoctor} title="CarDoctor" link="https://genius-car-services-f6688.web.app/" />
+                <ProjectItem img={doctorsportal} title="Doctors Portal" link="https://doctors-portal-react.netlify.app/" />
                 <ProjectItem img={emajohn} title="Ema John" link="https://emajohn-react-app.netlify.app/" />
                 <ProjectItem img={pandacommerce} title="Panda Commerce" link="https://panda-ecommerce-de.netlify.app/?#" />
                 <ProjectItem img={summai} title="Summ AI" link="https://summ-ai-app.netlify.app/" />
